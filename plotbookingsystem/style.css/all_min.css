@@ -1,0 +1,88 @@
+.{maegin:0;padding: 0;box-sizig:border-box;}
+
+.carousel-inner img {
+    width: 100%;
+    height: 80vh%;
+  }
+  
+  .abouting{
+	  width:100%;
+	  hight: 250px!important;
+  }
+*{margin:0; padding:0; border-box;}
+font-family: 'Ubuntu', sans-serif;
+
+carousel-innner img{
+    width:100%;
+    height:90vh;
+}
+
+
+
+
+body  {
+  
+  background-color: lightblue;
+
+}
+ /* footer style
+.footer{
+
+ width:100vh;
+height: 100rem;
+backgroud-color:#0a183d;
+}*/
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height:20%;
+   background-color:#0a183d ;
+   color: white;
+   text-align: center;
+}
+
+
+
+.card{
+    border:  200px;
+}
+
+.land{
+    background: white;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 100px;
+  
+  padding: 20px;
+}
+
+.grid-container > div {
+
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.sale {
+    background: rgb(238,235,235);
+}  
+.buy{
+    font-weight: 900;
+}
+ .btnf{
+ background-color: white ;
+ color:black;
+ height: 40px;
+ width: 120px;
+ outline: 50px;
+ border: none;
+ display: inline-block;
+ }
+ 
+
